@@ -36,5 +36,3 @@ tags : [runing,]
 
 最近一两个月是比利时天气最好的时候了，因此每周都会到外面跑几次，比在健身房空气好很多。明显的变化是肚腩基本不见了，体重明显下降，整个人感觉也好很多。建议大家也保持运动的习惯，这样才能更好的生活和工作。
 
-
-From today on, I move my personal website to Github. Since I just started to do this, there are plenty of stuff I don't understand...
