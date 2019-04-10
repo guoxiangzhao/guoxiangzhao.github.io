@@ -1,15 +1,9 @@
 ---
 layout: post
-title: Move to Github 
-keywords: Github, jekyll, markdown
-category : Github
-tags : [jekyll,]
+title: John Mayer 演唱会 
+keywords: John Mayer, concert
+category : Life
+tags : [John Mayer,]
 ---
 
-### What? ###
-
-
-从今天起，我把自己的个人网站放到Githbu上面了，刚开始弄，所以很多东西不太懂。
-
-
-From today on, I move my personal website to Github. Since I just started to do this, there are plenty of stuff I don't understand...
+今天在购买了John Mayer10月13日在伦敦的演唱会门票。听John Mayer的歌是在高中时候，那时学英语有个很流行的杂志，叫做疯狂英语，跟李阳没有什么关系，只是一本很不错的英文学习杂志，里面的内容丰富多彩，有一期里面就有推介John Mayer的歌曲，是一首 Daughter。（未完待续...）
