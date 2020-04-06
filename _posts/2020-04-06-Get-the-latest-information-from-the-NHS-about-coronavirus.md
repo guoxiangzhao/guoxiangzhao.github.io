@@ -2,7 +2,7 @@
 layout: post
 title: Get the latest information from the NHS about coronavirus.
 keywords: Queen's address, Covid2019, Boris Johnson
-category : Life
+category : Learning English
 tags : [Queen's address,Covid2019,Boris Johnson]
 ---
 
