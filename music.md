@@ -32,3 +32,20 @@ title: "Music"
   </audio>
 <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="27" height="13" wmode="transparent"></embed>
 
+2. John Mayer-Gravity
+   <audio controls>
+    <source src="my_music/John_Mayer_Gravity.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+<embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="27" height="13" wmode="transparent"></embed>
+
+3. John Mayer-Gravity
+   <audio controls>
+    <source src="my_music/Sugababes  Push The Button Official Music Video.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+<embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="27" height="13" wmode="transparent"></embed>
+
+
+
+
