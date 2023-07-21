@@ -5,8 +5,8 @@ title: "Music"
 
 ## Music：
 
-* I would like to share with you some of my favorite music.
-* Enjoy it.
+I would like to share with you some of my favorite music.
+Enjoy it.
   
 ** John_Mayer_Waiting_On_the_World_to_Change
    <audio controls>
