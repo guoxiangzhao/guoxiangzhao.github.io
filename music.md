@@ -31,12 +31,10 @@ title: "Music"
     <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="1" height="1" wmode="transparent">
 
 2. John Mayer-Gravity
-    <audio controls>
     <source src="my_music/John_Mayer_Gravity.mp3" type="audio/mpeg">
     <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="1" height="1" wmode="transparent">
 
 3. Sugababes Push The Button
-    <audio controls>
     <source src="my_music/Sugababes  Push The Button Official Music Video.mp3" type="audio/mpeg">
     <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="1" height="1" wmode="transparent">
 
