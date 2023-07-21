@@ -9,7 +9,7 @@ title: "Music"
 * Enjoy it.
 
 <audio controls>
-  <source src="my_music/John Mayer  Waiting On the World to Change Official Video.mp3" type="audio/mpeg">
+  <source src="my_music/John_Mayer_Waiting_On_the_World_to_Change.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
