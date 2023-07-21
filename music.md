@@ -5,7 +5,7 @@ title: "Music"
 
 ## Music：
 
-* I would like to share with you some of my favorite music.
+* I would like to share with you some of my favourite music.
 * Enjoy it.
   
 1.  <a href="my_music/John_Mayer_Waiting_On_the_World_to_Change.mp3">John Mayer-Waiting On the World to Change</a>
@@ -18,11 +18,11 @@ title: "Music"
 
 5.  <a href="my_music/Enola Gay.mp3">Enola Gay</a>
   
-6.  <a href="my_music/U2 If God Will Send His Angels Official Music Video.mp3">U2-If God Will Send His Angels</a>
+6.  <a href="my_music/U2  If God Will Send His Angels Official Music Video.mp3">U2-If God Will Send His Angels</a>
   
-7.  <a href="my_music/The Verve  Bitter Sweet Symphony.mp3">The Verve-Bitter Sweet Symphony</a>
+7.  <a href="my_music/The Verve Bitter Sweet Symphony.mp3">The Verve-Bitter Sweet Symphony</a>
   
-8.  <a href="my_music/Sugababes  Push The Button.mp3">Sugababes-Push The Button </a>
+8.  <a href="my_music/Sugababes Push The Button.mp3">Sugababes-Push The Button </a>
  
 
 1. John Mayer-Waiting On the World to Change
