@@ -23,10 +23,10 @@ Enjoy it.
 
 <ul>
   <li>
-    <a href="my_music/song1.mp3">Song 1</a>
+    <a href="my_music/John_Mayer_Waiting_On_the_World_to_Change.mp3">John Mayer Waiting On the World to Change</a>
   </li>
   <li>
-    <a href="my_music/song2.mp3">Song 2</a>
+    <a href="my_music/ohn_Mayer_Gravity.mp3">John Mayer Gravity</a>
   </li>
   <li>
     <a href="my_music/song3.mp3">Song 3</a>
