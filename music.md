@@ -38,7 +38,6 @@ title: "Music"
 3. John Mayer-Gravity
     <audio controls>
     <source src="my_music/Sugababes Push The Button Official Music Video.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
     <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="7" height="3" wmode="transparent">
 
 
