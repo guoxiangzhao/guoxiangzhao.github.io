@@ -23,6 +23,8 @@ title: "Music"
      7.  <a href="my_music/The Verve  Bitter Sweet Symphony.mp3">The Verve-Bitter Sweet Symphony</a>
   
      8.  <a href="my_music/Sugababes  Push The Button Official Music Video.mp3">Sugababes-Push The Button </a>
+     
+     9.  <a href="my_music/Coldplay - Magic.mp3"> Coldplay - Magic</a>
  
 
 1. John Mayer-Waiting On the World to Change
@@ -32,11 +34,12 @@ title: "Music"
 
 2. John Mayer-Gravity
     <source src="my_music/John_Mayer_Gravity.mp3" type="audio/mpeg">
-    <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="1" height="1" wmode="transparent">
+    <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="0.1" height="0.1" wmode="transparent">
 
 3. Sugababes Push The Button
     <source src="my_music/Sugababes  Push The Button Official Music Video.mp3" type="audio/mpeg">
-    <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="1" height="1" wmode="transparent">
+    <embed src="http://www.xiami.com/widget/0_3515679/singlePlayer.swf" type="application/x-shockwave-flash" width="0.1" height="0.1" wmode="transparent">
+
 
 
 
