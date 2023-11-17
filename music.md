@@ -26,7 +26,7 @@ title: "Music"
      
      9.  <a href="my_music/Coldplay - Magic.mp3"> Coldplay - Magic</a>
 
-     10. <a https://www.mixcloud.com/adamkvasnica3/17-reasons-to-love-classical/
+     10. <a https://www.mixcloud.com/adamkvasnica3/17-reasons-to-love-classical/</a>
  
 
 1. John Mayer-Waiting On the World to Change
