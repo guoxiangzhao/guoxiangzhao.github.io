@@ -25,8 +25,10 @@ title: "Music"
      8.  <a href="my_music/Sugababes  Push The Button Official Music Video.mp3">Sugababes-Push The Button </a>
      
      9.  <a href="my_music/Coldplay - Magic.mp3"> Coldplay - Magic</a>
+     
+     10.  <a href="my_music/伍思凯-特别的爱给特别的你.mp3"> 伍思凯-特别的爱给特别的你</a>
 
-     10. <a https://www.mixcloud.com/adamkvasnica3/17-reasons-to-love-classical/ </a>
+     11. <a https://www.mixcloud.com/adamkvasnica3/17-reasons-to-love-classical/ </a>
 
      https://www.mixcloud.com/adamkvasnica3/17-reasons-to-love-classical/
 
